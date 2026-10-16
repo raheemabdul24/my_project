@@ -5,6 +5,6 @@ def say_hello(name):
     print(f'Hello, {name}')
 
 if __name__ == '__main__':
-    name = 'CircleCI'
+    name = 'CI CD Pipeline'
     say_hello(name)
     print(to_upper(name))
